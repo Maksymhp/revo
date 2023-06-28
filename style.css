@@ -24,6 +24,7 @@ button {
 .header__container {
     position: relative;
     height: 768px;
+    z-index: 0;
 }
 
 .header__info {
